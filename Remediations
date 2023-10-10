@@ -1,0 +1,34 @@
+Part 1: Select up to three hardening tools and methods to implement:
+
+1-) Password Manager and Policy Enforcement:
+
+Implement a robust password manager to ensure that employees do not share passwords. Enforce strong password policies, including regular password changes, complexity requirements, and account lockout after a certain number of failed login attempts.
+
+
+2-) Firewall Configuration and Rule Implementation:
+
+Establish strict firewall rules to filter incoming and outgoing traffic. Allow only necessary services and ports, blocking unnecessary or potentially risky protocols. Regularly review and update these rules to adapt to changing security requirements and potential threats.
+
+
+3-) Multifactor Authentication (MFA):
+
+Enable multifactor authentication (MFA) across all systems and applications to add an extra layer of security. MFA significantly enhances the protection of user accounts by requiring an additional form of verification, such as a code sent to a mobile device or a biometric scan, in addition to the password.
+
+
+
+Part 2: Explain your recommendations:
+
+Password Manager and Policy Enforcement:
+
+Rationale: Password sharing among employees poses a significant security risk, as it increases the likelihood of unauthorized access. Implementing a password manager ensures the generation and storage of strong, unique passwords for each account. Enforcing stringent password policies enhances the overall security posture by reducing the risk of password-related vulnerabilities.
+
+  
+Firewall Configuration and Rule Implementation:
+
+Rationale: Firewalls act as a crucial barrier between an organization's internal network and the external world. Configuring strict rules ensures that only necessary and authorized traffic is allowed, reducing the attack surface and preventing potential exploits. Regularly reviewing and updating firewall rules is essential to adapt to emerging threats and changing business requirements.
+
+
+Multifactor Authentication (MFA):
+
+Rationale: MFA is a fundamental security measure that significantly enhances the protection of user accounts. By requiring an additional form of verification beyond passwords, even if credentials are compromised, unauthorized access becomes much more difficult. Implementing MFA across all systems and applications adds an additional layer of defense against various types of attacks, including phishing and credential stuffing.
+In summary, the selected hardening tools and methods aim to address the identified vulnerabilities comprehensively, creating a more resilient and secure network infrastructure for the social media organization.
