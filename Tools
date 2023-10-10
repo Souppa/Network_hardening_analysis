@@ -21,11 +21,32 @@ Desciption: Ports can be blocked on firewalls, routers, servers, and more to pre
 Common Uses: Before an incident occurs, to prevent malicious actors from entering the network through the open port. Can be used after an incident to prevent future attacks from happening through unused open ports.
 
 
-4-) Encryption Using Latest Standards
+4-) Encryption Using Latest Standards:
 
 Description: Rules or methods used to conceal outgoing data and uncover or decrypt the incoming data.
 
 Common Uses: Can be implemented regularly to assess if the current encryption standards are secure and effective for your organization. The encryption standards can also be updated after a data breach.
+
+
+5-) Firewall Maintenance:
+
+Description: Firewall maintenance entails checking and updating security configurations regularly to stay ahead of potential threats.	
+
+Common Uses: This can happen regularly. Firewall rules can be updated in response to an event that allows abnormal network traffic into the network. This measure can be used to protect against various DDoS attacks.
+
+
+6-) Hardware & Software Disposal
+
+Description: Ensures that all old hardware is properly wiped of all data and disposed of.	
+
+Common Uses: Prevent the network from various threats by removing outdated or unused software or hardware that do not have the latest security patches or updates. Unpatched devices can allow malicious actors to easily access the network.
+
+
+7-) Multifactor authentication(MFA):
+
+Description: A security measure which requires a user to verify their identity in two or more ways to access a system or network. MFA options include a password, pin number, badge, one-time password (OTP) sent to a cell phone, fingerprint, and more.	
+
+Common Uses: Can help protect against brute force attacks and similar security events. MFA can be implemented at any time, and is mostly a technique that is set up once then maintained.
 
 
 
