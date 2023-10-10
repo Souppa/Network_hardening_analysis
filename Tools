@@ -1,0 +1,50 @@
+Security hardening task	         Description	                Common uses
+
+1-) Baseline Configurations: 
+
+Description: A documented set of specifications within a system that is used as a basis for future builds, releases, and updates.	
+
+Common Uses: To restore a system to a previous baseline after a network outage, or unauthorized changes on a baseline.
+
+
+2-) Configuration Checks: 
+
+Description: Updating the encryption standards for data that is stored in databases.	
+
+Common Uses: To see if there are any unauthorized changes to the system.
+
+
+3-) Disabling Unused Ports: 
+
+Desciption: Ports can be blocked on firewalls, routers, servers, and more to prevent potentially dangerous network traffic from passing through.	
+
+Common Uses: Before an incident occurs, to prevent malicious actors from entering the network through the open port. Can be used after an incident to prevent future attacks from happening through unused open ports.
+
+
+4-) Encryption Using Latest Standards
+
+Description: Rules or methods used to conceal outgoing data and uncover or decrypt the incoming data.
+
+Common Uses: Can be implemented regularly to assess if the current encryption standards are secure and effective for your organization. The encryption standards can also be updated after a data breach.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
