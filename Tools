@@ -49,7 +49,60 @@ Description: A security measure which requires a user to verify their identity i
 Common Uses: Can help protect against brute force attacks and similar security events. MFA can be implemented at any time, and is mostly a technique that is set up once then maintained.
 
 
+8-) Network Access Privileges: 
 
+Description: Network access privileges involves permitting, limiting, and/or blocking access privileges to network assets for people, roles, groups, IP addresses, MAC addresses, etc.	
+
+Common Uses: Reduces the risk of unauthorized users and outside traffic from accessing the internal network. This can be implemented once, or revisited depending on the likelihood of social engineering or brute force attacks.
+
+
+9-) Network Log Analysis:
+
+Description: The process of examining network logs to identify events of interest.	
+
+Common Uses: Can be configured to alert the security team when there is abnormal traffic on the network. This can be used either before an incident occurs, during to track network traffic, and can be configured in the response of a cybersecurity attack. A common tool used for analyzing network logs is a SIEM.
+
+
+10-) Password Policies: 
+
+Description: The National Institute of Standards and Technology's (NIST) latest recommendations for password policies focuses on using methods to salt and hash passwords, rather than requiring overly complex passwords or enforcing frequent changes to passwords.	
+
+Common Uses: Password policies are used to prevent attackers from easily guessing user passwords, either manually or by using a script to attempt thousands of stolen passwords (commonly called a brute force attack).
+
+
+11-) Patch Updates: 
+
+Description: A software and operating system (OS) update that addresses security vulnerabilities within a program or product.	
+
+Common Uses: Patch updates often contain fixes to security problems. It is important to keep systems up to date with the latest security patches because attackers will be alerted to the security vulnerability when patches are released. They will be more likely to target that vulnerability before people eventually apply the patches.
+
+
+12-) Penetration Test: 
+
+Description: A simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes.	
+
+Common Uses: Pen tests are used to protect and prevent against potential attacks.
+
+
+13-) Port Filtering: 
+
+Description: A firewall function that blocks or allows certain port numbers to limit unwanted communication.	 
+
+Common Uses: Port filtering is used to control network traffic and can prevent potential attackers from entering a private network.
+
+
+14-) Removing or Disabling Unused Applications and Services:
+
+Description: Unused applications and services can become a point of vulnerability because they are less likely to be maintained or updated with new security features.	
+
+Common Uses: This procedure is used to reduce potential vulnerabilities within a network.
+
+
+15-) Server and Store Data Backups: 
+
+Descriptions: Server and data storage backups help protect data assets from being lost. Backups can be recorded and stored in a physical location or uploaded/synced to a cloud repository.	
+
+Common Uses: Backups are used to restore lost data from attacks, human error, equipment failures, and other unplanned losses.
 
 
 
